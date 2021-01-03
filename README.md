@@ -22,6 +22,10 @@ I tried different solutions to link the servo-motor and the keys.
 The best one seems to be to use soft brass wire, as found on Champagne bottles to secure the cork.
 Fishing wire will break early and may get tangled.
 
+To carry your bass clarinet in its case, switch the ESP32 off, remove the servor motor from its support.
+The ESP32, the servo-motor and all the wiring stay with the lower body.
+The upper body only has the 3D-printed support.
+
 © Frédéric Boulanger frederic.softdev@gmail.com  
 2019-08-28  
 This software is licensed under the Eclipse Public License 2.0
