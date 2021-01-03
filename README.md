@@ -6,7 +6,7 @@ I transformed the tip of the keys into capacitive touchpads to be sensed by an E
 
 Contents
 --------
-* The ```Micropython``` folder contains the [Micropython](https://micropython.org/) code used to program the ICQUANZC Mini32 v1.3 development board I used.
+* The ```Micropython``` folder contains the [Micropython](https://micropython.org/) code used to program the ICQUANZX Mini32 v1.3 development board I used.
 
 * The openscad folder contains the [OpenScad](https://www.openscad.org/) source code of the block that holds the servo-motor on the upper clarinet body, as well as the rendered STL file that you can use to print this piece.
 
