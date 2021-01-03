@@ -26,6 +26,8 @@ To carry your bass clarinet in its case, switch the ESP32 off, remove the servor
 The ESP32, the servo-motor and all the wiring stay with the lower body.
 The upper body only has the 3D-printed support.
 
+<img width="100%" src="https://raw.githubusercontent.com/Frederic-soft/CyberBassClarinet/main/CyberBassClarinet.jpg"/>
+
 © Frédéric Boulanger frederic.softdev@gmail.com  
 2019-08-28  
 This software is licensed under the Eclipse Public License 2.0
